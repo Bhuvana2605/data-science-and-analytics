@@ -69,7 +69,7 @@ This project combines **Image Captioning** and **Image Segmentation** into a sin
 
 | Original Image | Caption                | Segmentation      |
 | -------------- | ---------------------- | ----------------- |
-| 🖼️ Uploaded   | "A man riding a horse" | 🎨 Segmented mask |
+| 🖼️ Uploaded   | "a dog sitting on a couch with a blanket" | 🎨 Segmented mask |
 
 ---
 
